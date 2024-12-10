@@ -19,7 +19,7 @@ The app is built using **HTML**, **CSS**, and **JavaScript** and uses a weather 
 ---
 
 ## Demo
-![Screenshot 2024-12-10 150519](https://github.com/user-attachments/assets/2e24a90f-7552-4f66-83c2-2427f95022da)
+![Uploading Screenshot 2024-12-10 150519.png…]()
 
 ---
 
